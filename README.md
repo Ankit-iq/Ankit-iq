@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently pursuing Btech in GIET University
 - 🌱 I’m currently learning about ML models...
-![Ankit-iq](https://github-readme-stats.vercel.app/api?username=Ankit-iq&show_icons=true&theme=radical)
+<img src="https://media.giphy.com/media/3o7aD3jAXruMI26iQM/giphy.gif" width="500">
 
