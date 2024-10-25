@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently pursuing Btech in GIET University
 - 🌱 I’m currently learning about ML models...
-<img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
