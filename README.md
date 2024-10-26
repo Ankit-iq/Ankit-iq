@@ -24,18 +24,13 @@
 
 ## 🎨 Hobbies & Interests
 - 💻 Coding and exploring new tech stacks
-- 📱 Building Android applications
-- 🤖 Experimenting with robotics and IoT
-- 🎮 Gaming and trying out new technology in VR/AR
-
-## ✨ Quote I Live By
-"The best way to predict the future is to invent it." - Alan Kay
+- 🎮 Gaming 
 
 ## 📊 GitHub Statistics
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-iq&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-iq&layout=compact&theme=dark)](https://github.com/Ankit-iq/github-readme-stats)
 
 ## 📫 How to Reach Me
-- [Email](mailto:ankit@example.com)
-- [LinkedIn](https://linkedin.com/in/ankit-bhuyan)
+- [Email](mailto:bhuyanankit048@gmail.com)
+- [LinkedIn](https://linkedin.com/in/ankit-kumar-bhuyan-537740279)
+
 
