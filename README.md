@@ -1,7 +1,7 @@
 ## Hi there, Ankit here 👋
 
 - 🔭 I’m currently pursuing B.Tech at GIET University.
-- 🌱 I’m currently learning about ML models, exploring projects in AI, web development, and IoT.
+- 🌱 I’m currently learning about ML models, exploring projects in AI and cybersecurity
 - 💡 Interested in creating applications that integrate AI with real-world problems.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ankit-iq&theme=dark&background=000000)](https://git.io/streak-stats)
