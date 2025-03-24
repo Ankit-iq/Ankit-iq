@@ -24,7 +24,8 @@
 
 ## 🎨 Hobbies & Interests
 - 💻 Coding and exploring new tech stacks
-- 🎮 Gaming 
+- 🎮 Gaming
+- 😋 Foodie
 
 ## 📊 GitHub Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-iq&layout=compact&theme=dark)](https://github.com/Ankit-iq/github-readme-stats)
