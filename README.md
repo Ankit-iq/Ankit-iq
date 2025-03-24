@@ -15,7 +15,7 @@
 ## 🚀 Featured Projects
 - **[Gesture Control Volume](https://github.com/Ankit-iq/Gesture-control-volume)**: Control your system volume using hand gestures with MediaPipe integration.
 - **[Sentiment Analyzer](https://github.com/Ankit-iq/Sentiment-Analyzer)**: Analyze tweets and text to detect multiple sentiment categories using ML models and an intuitive UI.
-- **[Online Payment Fraud Detection](https://github.com/Ankit-iq/Payment-Fraud-Detection)**: Detect fraudulent transactions using machine learning.
+- **[Tourism Recommendation](https://github.com/Ankit-iq/tourism-recommendation)**: Recommends tourist palces based on State and City.
 
 ## 📚 Current Focus
 - Developing advanced sentiment analysis models with emotion detection capabilities.
