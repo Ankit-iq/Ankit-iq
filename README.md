@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 - **[Gesture Control Volume](https://github.com/Ankit-iq/Gesture-control-volume)**: Control your system volume using hand gestures with MediaPipe integration.
-- **[Sentiment Analyzer](https://github.com/Ankit-iq/Sentiment-Analyzer)**: Analyze tweets and text to detect multiple sentiment categories using ML models and an intuitive UI.
+- **[Sentiment Analyzer](https://github.com/Ankit-iq/sentiment-analysis-app)**: Analyze tweets and text to detect multiple sentiment categories using ML models and an intuitive UI.
 - **[Tourism Recommendation](https://github.com/Ankit-iq/tourism-recommendation)**: Recommends tourist palces based on State and City.
 
 ## 📚 Current Focus
