@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning about ML models, exploring projects in AI and cybersecurity
 - 💡 Interested in creating applications that integrate AI with real-world problems.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ankit-iq&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
