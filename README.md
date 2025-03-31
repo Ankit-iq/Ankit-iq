@@ -32,4 +32,6 @@
 - [Email](mailto:bhuyanankit048@gmail.com)
 - [LinkedIn](https://linkedin.com/in/ankit-kumar-bhuyan-537740279)
 
+## 🏅 Badges
+- [Leetcode](![17433948506583013081821923108610](https://github.com/user-attachments/assets/42c11250-7832-4654-b057-736fe64ca998))
 
