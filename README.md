@@ -33,5 +33,4 @@
 - [LinkedIn](https://linkedin.com/in/ankit-kumar-bhuyan-537740279)
 
 ## 🏅 Badges
-- [Leetcode](![17433950232427733363873544151311](https://github.com/user-attachments/assets/9167b1fe-9722-44a9-a47e-436a2f6a13fd)
-)
+- [Leetcode](https://leetcode.com/medal/?showImg=0&id=4935666&isLevel=false)
