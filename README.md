@@ -34,3 +34,4 @@
 
 ## 🏅 Badges
 - [Leetcode](https://leetcode.com/medal/?showImg=0&id=4935666&isLevel=false)
+- [Badge](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)
